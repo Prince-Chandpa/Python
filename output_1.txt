@@ -1,0 +1,4 @@
+number of line: 5
+number of words: 25
+number of characters: 123
+count of this = 1

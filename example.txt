@@ -1,0 +1,8 @@
+Hello world !!
+This is Python File I/O Lab..
+how can I help you ?
+this file created using w mode
+Hello world !!
+This is Python File I/O Lab..
+how can I help you ?
+created by prince chandpa.
